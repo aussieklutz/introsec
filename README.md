@@ -11,6 +11,7 @@ CrikeyCon - https://www.youtube.com/channel/UC9HNBB8Ifvb3u69FCkUXEcA
 ## Major International Security Conventions:
 
 **Defcon** - https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+
 **Blackhat** - https://www.youtube.com/c/BlackHatOfficialYT
 
 ## Some youtube videos from security conventions and other computer security centric channels:
